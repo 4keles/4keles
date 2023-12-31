@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4keles&label=Profile%20views&color=0e75b6&style=flat" alt="4keles" /> </p>
 
 # 💫 About Me:
-💬  Hey I am Ahmet,a passionate computer engineer student from Türkiye🇹🇷<br>🔭 I’m currently working on my final project (that will be uploaded soon )<br>🌱 I’m currently learning TensorFlow with Machine Learning<br>⚡ I LOVE LEARNING COOL STUFF
+🔭 I’m currently working on my final project (that will be uploaded soon )<br>🌱 I’m currently learning TensorFlow with Machine Learning<br>⚡ I LOVE LEARNING COOL STUFF
 
 
 # 💻 Tech Stack:
