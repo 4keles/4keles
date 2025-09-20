@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://meme-scraper-api.vercel.app/api/v1/random-meme' style="height: 400px;"/>
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=4keles&icon=8&color=7)](https://visitcount.itsvg.in)-->
