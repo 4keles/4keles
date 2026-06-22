@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4keles&label=Profile%20views&color=0e75b6&style=flat" alt="4keles" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on solar panel object detection project (that will be finish soon )<br>🌱 I’m currently learning agent tools and mutli agent pipeline architecture<br>⚡ I LOVE LEARNING COOL STUFF
+🔭 I’m currently working on claude code / agents framework for good start project tamplate <br>🌱 I’m currently learning agent tools and mutli agent pipeline architecture<br>⚡ I LOVE LEARNING COOL STUFF
 
 
 # 💻 Tech Stack:
