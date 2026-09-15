@@ -1,20 +1,14 @@
 <svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="4keles — AI Automation Engineer">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#134e4a"/>
-    </linearGradient>
     <style>
-      .node { fill: #0f172a; stroke: #2dd4bf; stroke-width: 2; }
-      .label { font-family: 'Fira Code', Consolas, monospace; fill: #94a3b8; font-size: 11px; }
-      .flow { stroke: #2dd4bf; stroke-width: 2; fill: none; stroke-dasharray: 6 10; opacity: .85; animation: dash 1.6s linear infinite; }
+      .node { fill: none; stroke: #8b949e; stroke-width: 2; }
+      .label { font-family: 'Fira Code', Consolas, monospace; fill: #8b949e; font-size: 11px; }
+      .flow { stroke: #8b949e; stroke-width: 1.5; fill: none; stroke-dasharray: 6 10; opacity: .8; animation: dash 1.6s linear infinite; }
       @keyframes dash { to { stroke-dashoffset: -32; } }
-      .title { font-family: 'Fira Code', Consolas, monospace; fill: #2dd4bf; font-size: 30px; font-weight: 700; }
-      .subtitle { font-family: 'Fira Code', Consolas, monospace; fill: #cbd5e1; font-size: 12.5px; }
+      .title { font-family: 'Fira Code', Consolas, monospace; fill: #e6edf3; font-size: 30px; font-weight: 700; }
+      .subtitle { font-family: 'Fira Code', Consolas, monospace; fill: #8b949e; font-size: 12.5px; }
     </style>
   </defs>
-
-  <rect width="900" height="140" rx="12" fill="url(#bg)"/>
 
   <text x="30" y="58" class="title">4keles</text>
   <text x="30" y="82" class="subtitle">AI Automation Engineer · Agent Architecture &amp; Workflow Orchestration</text>

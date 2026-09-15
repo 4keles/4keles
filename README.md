@@ -1,4 +1,8 @@
-<img alt="4keles — AI Automation Engineer — Agent Architecture &amp; Workflow Orchestration" src="https://raw.githubusercontent.com/4keles/4keles/main/assets/banner.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4keles/4keles/main/assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4keles/4keles/main/assets/banner-light.svg" />
+  <img alt="4keles — AI Automation Engineer — Agent Architecture &amp; Workflow Orchestration" src="https://raw.githubusercontent.com/4keles/4keles/main/assets/banner-light.svg" width="100%" />
+</picture>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)

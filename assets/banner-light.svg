@@ -1,0 +1,38 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="4keles — AI Automation Engineer">
+  <defs>
+    <style>
+      .node { fill: none; stroke: #656d76; stroke-width: 2; }
+      .label { font-family: 'Fira Code', Consolas, monospace; fill: #656d76; font-size: 11px; }
+      .flow { stroke: #656d76; stroke-width: 1.5; fill: none; stroke-dasharray: 6 10; opacity: .8; animation: dash 1.6s linear infinite; }
+      @keyframes dash { to { stroke-dashoffset: -32; } }
+      .title { font-family: 'Fira Code', Consolas, monospace; fill: #1f2328; font-size: 30px; font-weight: 700; }
+      .subtitle { font-family: 'Fira Code', Consolas, monospace; fill: #656d76; font-size: 12.5px; }
+    </style>
+  </defs>
+
+  <text x="30" y="58" class="title">4keles</text>
+  <text x="30" y="82" class="subtitle">AI Automation Engineer · Agent Architecture &amp; Workflow Orchestration</text>
+
+  <g transform="translate(560,20)">
+    <path class="flow" d="M10,50 L80,50"/>
+    <path class="flow" d="M90,50 L90,20 L160,20" style="animation-delay:-.3s"/>
+    <path class="flow" d="M90,50 L90,80 L160,80" style="animation-delay:-.6s"/>
+    <path class="flow" d="M170,20 L230,50" style="animation-delay:-.9s"/>
+    <path class="flow" d="M170,80 L230,50" style="animation-delay:-1.1s"/>
+    <path class="flow" d="M240,50 L300,50" style="animation-delay:-1.4s"/>
+
+    <circle class="node" cx="10" cy="50" r="6"/>
+    <circle class="node" cx="90" cy="50" r="8"/>
+    <circle class="node" cx="165" cy="20" r="6"/>
+    <circle class="node" cx="165" cy="80" r="6"/>
+    <circle class="node" cx="235" cy="50" r="8"/>
+    <circle class="node" cx="300" cy="50" r="6"/>
+
+    <text x="10" y="70" class="label" text-anchor="middle">in</text>
+    <text x="90" y="70" class="label" text-anchor="middle">router</text>
+    <text x="165" y="12" class="label" text-anchor="middle">local</text>
+    <text x="165" y="102" class="label" text-anchor="middle">cloud</text>
+    <text x="235" y="70" class="label" text-anchor="middle">agent</text>
+    <text x="300" y="70" class="label" text-anchor="middle">out</text>
+  </g>
+</svg>
