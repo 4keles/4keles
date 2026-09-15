@@ -1,8 +1,4 @@
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:134e4a&section=header" width="100%" />
-
-<p align="center">
-  <img alt="4keles — AI Automation Engineer" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=4keles;AI+Automation+Engineer;Agent+Architecture+%C2%B7+Workflow+Orchestration;Computer+Vision+%C2%B7+Cost-Aware+LLM+Routing" />
-</p>
+<img alt="4keles — AI Automation Engineer — Agent Architecture &amp; Workflow Orchestration" src="https://raw.githubusercontent.com/4keles/4keles/main/assets/banner.svg" width="100%" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
