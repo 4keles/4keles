@@ -8,7 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2F4keles%2Fsolar-panel-od&query=downloads&label=%F0%9F%A4%97%20HF%20downloads&style=flat-square&color=134e4a)
+![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2F4keles%2Fsolar-panel-od&query=downloads&label=HF%20downloads&style=flat-square&logo=huggingface&logoColor=white&color=134e4a)
 
 Designing agent architectures and workflow orchestration systems for
 automation pipelines — the computer-vision and LLM-routing projects below
